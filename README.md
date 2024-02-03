@@ -1,7 +1,7 @@
 # MucLiPred 
 
-Welcome to the MucLiPred repository.
-The preprint of our work: https://www.biorxiv.org/content/10.1101/2023.12.06.570503v1 
+Welcome to the MucLiPred repository.  
+The DOI of our work: https://doi.org/10.1021/acs.jcim.3c01471 
 
 ## Directory Structure
 
